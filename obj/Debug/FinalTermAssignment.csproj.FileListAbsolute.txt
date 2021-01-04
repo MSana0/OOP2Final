@@ -1,0 +1,10 @@
+C:\Users\MARIUMSANAMIM\source\repos\FinalTermAssignment\FinalTermAssignment\bin\Debug\FinalTermAssignment.exe.config
+C:\Users\MARIUMSANAMIM\source\repos\FinalTermAssignment\FinalTermAssignment\bin\Debug\FinalTermAssignment.exe
+C:\Users\MARIUMSANAMIM\source\repos\FinalTermAssignment\FinalTermAssignment\bin\Debug\FinalTermAssignment.pdb
+C:\Users\MARIUMSANAMIM\source\repos\FinalTermAssignment\FinalTermAssignment\obj\Debug\FinalTermAssignment.csprojAssemblyReference.cache
+C:\Users\MARIUMSANAMIM\source\repos\FinalTermAssignment\FinalTermAssignment\obj\Debug\FinalTermAssignment.AllBooks.resources
+C:\Users\MARIUMSANAMIM\source\repos\FinalTermAssignment\FinalTermAssignment\obj\Debug\FinalTermAssignment.Properties.Resources.resources
+C:\Users\MARIUMSANAMIM\source\repos\FinalTermAssignment\FinalTermAssignment\obj\Debug\FinalTermAssignment.csproj.GenerateResource.cache
+C:\Users\MARIUMSANAMIM\source\repos\FinalTermAssignment\FinalTermAssignment\obj\Debug\FinalTermAssignment.csproj.CoreCompileInputs.cache
+C:\Users\MARIUMSANAMIM\source\repos\FinalTermAssignment\FinalTermAssignment\obj\Debug\FinalTermAssignment.exe
+C:\Users\MARIUMSANAMIM\source\repos\FinalTermAssignment\FinalTermAssignment\obj\Debug\FinalTermAssignment.pdb
